@@ -1,0 +1,14 @@
+welcome  screen
+logoin 
+signup
+chat
+payment gateway
+esaudion readikng
+forgot password
+confirm passsword
+style color
+ #ffffff
+ #OAOO19
+#FAFFEB
+#DOFF61
+#38O183

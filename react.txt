@@ -1,0 +1,39 @@
+npm install -g create-react-app
+create-react-app <application_name>
+create-react-app hello-world
+React Developer Tools
+cd hello-world
+yarn start
+install Node Version Manager
+>> node –v
+>> npm –v
+npm install -g create-react-native-app
+$ npm install -g react-native-git-upgrade
+$ react-native-git-upgrade
+Creating a Basic Skeleton
+Fire up your terminal and type in the following command:
+create-react-native-app HouseShare
+...
+...
+...
+Success! Created HouseShare at /Users/abhisheknalwaya/Documents/book/
+HouseShareInside that directory, you can run several commands:
+yarn start
+Starts the development server so you can open your React Native app in the Expo
+application on your phone.
+yarn run ios
+(Mac only, requires Xcode)
+Starts the development server and loads your app in an iOS simulator.
+yarn run android
+(Requires Android build tools)
+Starts the development server and loads your app on a connected Android device or
+emulator.
+yarn test
+Starts the test runner.
+yarn run eject
+Removes this tool and copies build dependencies, configuration files, and scripts
+into the app directory. If you do this, you can’t go back!
+We suggest that you begin by typing this:
+cd HouseShare
+yarn start
+Happy hacking!
